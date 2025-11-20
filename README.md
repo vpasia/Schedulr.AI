@@ -9,7 +9,7 @@ An application that can create optimal study plans for you based on your school 
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1EgLBjG-0Cp8U6-EJU0n-1XSQiHCOfk_S
+View your app in AI Studio: https://ai.studio/apps/drive/1EgLBjG-0Cp8U6-EJU0n-1XSQiHCOfk_S?fullscreenApplet=true
 
 ## Run Locally
 
