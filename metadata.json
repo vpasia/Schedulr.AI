@@ -1,0 +1,5 @@
+{
+  "name": "Schedulr.AI",
+  "description": "An application that parses an ICS calendar file of a student's school schedule, displays it visually, and uses AI to suggest optimal study times in the free slots.",
+  "requestFramePermissions": []
+}
